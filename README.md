@@ -1,4 +1,5 @@
-### Hi there 👋
+# About Me
+### I am software developer. Techstack doesnt matter much. I believe to use best techstack as per requirements.
 
 <!--
 **talktomanishr/talktomanishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
